@@ -83,9 +83,10 @@ author:
   name             : "Maya Malaviya"
   avatar           : "profile.png"
   bio              : "Lab Manager at Princeton University"
-  location         : "Princeton, NJ"
+  location         : 
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
+  orcid            : "https://orcid.org/0000-0001-9676-6550"
   googlescholar    : "https://scholar.google.com/citations?user=cwBln1gAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,7 +104,6 @@ author:
   impactstory      :
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0001-9676-6550"
   pinterest        :
   soundcloud       :
   stackoverflow    :
