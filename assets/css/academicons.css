@@ -14,9 +14,32 @@
     font-weight: normal;
     font-style: normal;
 }
+
+@font-face {
+    font-family: 'Canela';
+    src:url('../fonts/Canela_Collection/canela.eot');
+    src:url('../fonts/Canela_Collection/canela.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Canela_Collection/canela.woff') format('woff'),
+        url('../fonts/Canela_Collection/canela.ttf') format('truetype'),
+        url('../fonts/Canela_Collection/canela.svg#CanelaRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Graphik';
+    src:url('../fonts/Graphik-Font-Family/graphik.eot');
+    src:url('../fonts/Graphik-Font-Family/graphik.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Graphik-Font-Family/graphik.woff') format('woff'),
+        url('../fonts/Graphik-Font-Family/graphik.ttf') format('truetype'),
+        url('../fonts/Graphik-Font-Family/graphik.svg#GraphikRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
 .ai {
 	display:inline-block;
-	font:normal normal normal 14px/1 Academicons;
+	font:normal normal normal 14px/1 Graphik;
 	font-size:inherit;
 	text-rendering:auto;
 	-webkit-font-smoothing:antialiased;
