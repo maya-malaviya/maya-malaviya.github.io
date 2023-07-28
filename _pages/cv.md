@@ -11,30 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Cognitive Science, University of California, Berkeley
+* Ph.D Candidate in Computer Science, Stevens Institute of Technology
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Princeton University: Research Specialist I
+  * Managed two psychology research labs, [Computational Cognitive Science Lab]([url](https://cocosci.princeton.edu)) & [Concepts and Cognition Lab]([url](https://cognition.princeton.edu)).
+  * Worked on independent research projects, & provided research and administrative support to other lab members.
+  * Built clear documentation for the lab’s policies and protocols.
+ 
+* Lawrence Hall of Science at University of California, Berkeley
+  * I was the lead educator that taught MakeCode and Python to hundreds of middle and high school students working as a summer camp and after school program instructor for 3 years.
+  * Additionally, taught AI4All camps, international camps, and a camp of my own design.
 
 Publications
 ======
@@ -42,18 +31,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
