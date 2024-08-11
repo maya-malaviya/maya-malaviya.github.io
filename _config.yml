@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Maya Malaviya"
 title_separator          : "-"
 name                     : &name "Maya Malaviya"
-description              : &description "Lab Manager at Princeton University"
+description              : &description "PhD Student at NYU Department of Psychology"
 url                      : https://maya-malaviya.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "maya-malaviya.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Maya Malaviya"
   avatar           : "maya-headshot-square.png"
-  bio              : "Lab Manager at Princeton University"
+  bio              : "PhD Student at NYU Department of Psychology"
   location         : 
   employer         :
   pubmed           : 
@@ -179,7 +179,7 @@ collections:
     output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
     output: false
