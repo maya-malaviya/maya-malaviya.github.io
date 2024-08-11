@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Cognitive Science, University of California, Berkeley
-* Ph.D Candidate in Computer Science, Stevens Institute of Technology
+* B.S. in Cognitive Science, University of California, Berkeley (2017-2021)
+* Ph.D Student in Computer Science, Stevens Institute of Technology (2023-2024)
+* Ph.D Student in Psychology, New York University (2024-)
 
 Work experience
 ======
@@ -25,9 +26,9 @@ Work experience
   * I was the lead educator that taught MakeCode and Python to hundreds of middle and high school students working as a summer camp and after school program instructor for 3 years.
   * Additionally, taught AI4All camps, international camps, and a camp of my own design.
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
