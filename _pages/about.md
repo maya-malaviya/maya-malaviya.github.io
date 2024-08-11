@@ -9,7 +9,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-{% include sidebar.html %}
 
 My research uses computational models to describe the ways in which humans solve complex problems. For instance, how do we decide what and how to teach? How can we learn categories that we have very little knowledge about? What is the best way to finish a task: reason about it, rote practice what we already know, or offload it to another agent?
 
