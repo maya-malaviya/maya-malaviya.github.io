@@ -18,6 +18,7 @@ Education
 Funded Awards
 ======
 * National Science Foundation Graduate Research Fellowship (2023-2028)
+* Edwin A. Stevens Presidential Fellowship (2023-2024)
 * UC Berkeley Summer Undergraduate Research Fellowship (2020)
 * CalTeach STEM Beyond Summer Internship (2018)
 
