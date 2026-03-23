@@ -1,0 +1,36 @@
+{% include base_path %}
+
+{% if page.author and site.data.authors[page.author] %}
+  {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
+{% endif %}
+
+<div class="author__mobile-header">
+  <div class="author__mobile-top">
+    {% if author.avatar contains "://" %}
+      <img src="{{ author.avatar }}" alt="{{ author.name }}" class="author__mobile-avatar">
+    {% else %}
+      <img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" alt="{{ author.name }}" class="author__mobile-avatar">
+    {% endif %}
+    <div class="author__mobile-info">
+      <h3 class="author__name">{{ author.name }}</h3>
+      {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
+    </div>
+  </div>
+  <ul class="author__mobile-links social-icons">
+    {% if author.email %}
+      <li><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ author.email }}</li>
+    {% endif %}
+    {% if author.twitter %}
+      <li><a href="https://twitter.com/{{ author.twitter }}"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+    {% endif %}
+    {% if author.github %}
+      <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
+    {% endif %}
+    {% if author.googlescholar %}
+      <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
+    {% endif %}
+    {% if author.orcid %}
+      <li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
+    {% endif %}
+  </ul>
+</div>

@@ -12,6 +12,10 @@ layout: default
   {% endunless %}
 {% endif %}
 
+{% if page.author_profile %}
+  {% include author-profile-mobile.html %}
+{% endif %}
+
 <div id="main" role="main">
   {% include sidebar.html %}
 
