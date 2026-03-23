@@ -1,6 +1,11 @@
 /* ==========================================================================
    BASE ELEMENTS
    ========================================================================== */
+
+::selection {
+  background-color: #2aa198; // solarized base2
+  color: #3d2f22;
+}
 html {
   /* sticky footer fix */
   position: relative;
