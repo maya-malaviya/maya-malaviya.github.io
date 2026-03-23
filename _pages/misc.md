@@ -4,17 +4,17 @@ title: "Misc"
 permalink: /misc/
 author_profile: true
 ---
-Inspiration can be found anywhere!
+I enjoy thinking about a lot of stuff that isn't real! Here's some cool media that makes me excited to do that more.
 
 ## Books that Inspire Me
-- [Gormenghast Trilogy](https://en.wikipedia.org/wiki/Gormenghast_(series))
-- [If on a winter's night a traveler](https://en.wikipedia.org/wiki/If_on_a_winter%27s_night_a_traveler)
-- [Lincoln in the Bardo](https://en.wikipedia.org/wiki/Lincoln_in_the_Bardo)
+- [Gormenghast Trilogy (1946)](https://en.wikipedia.org/wiki/Gormenghast_(series))
+- [If on a winter's night a traveler (1979)](https://en.wikipedia.org/wiki/If_on_a_winter%27s_night_a_traveler)
+- [Lincoln in the Bardo (2017)](https://en.wikipedia.org/wiki/Lincoln_in_the_Bardo)
 
 ## Video Games that Inspire Me
 
-- [Slay the Spire](https://en.wikipedia.org/wiki/Slay_the_Spire)
-- [Baba Is You](https://en.wikipedia.org/wiki/Baba_Is_You)
+- [Baba Is You (2017)](https://en.wikipedia.org/wiki/Baba_Is_You)
+- [Slay the Spire (2019)](https://en.wikipedia.org/wiki/Slay_the_Spire)
 
 ## Tabletop RPGs that Inspire Me
 
@@ -24,3 +24,26 @@ Inspiration can be found anywhere!
 - [Delta Green](https://en.wikipedia.org/wiki/Delta_Green)
 - [Monster of the Week](https://en.wikipedia.org/wiki/Monster_of_the_Week)
 - [The Orpheus Protocol](https://orpheusprotocol.com/about)
+
+<pre>
+                           o                                                   *
+           '                     '                              +
+      +   '
+       |         o                .    .                    |
+     --o--  o                              o              --o--
+       |                         .-.                        | '               .
+  o                       +     ( (                                            o
+                    +            `-'                              ' +  o       '
+           .                             .                        .:'    .
+          +                       +            o              _.::'      '
+                                        * .                  (_.'        *
+                                                                       '
+   .  +                                     *                       .
+    '      \                 ' '                                   .        '
+       *    \                        +   .                                    '
+             *                               .    +            o
+                                     ':.     .
+        o       .                      '::._  +                           |
+                   .                     '._)                          +- o -
+                                                   .              +       |
+</pre>
