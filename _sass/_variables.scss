@@ -47,24 +47,24 @@ $type-size-8                : 0.625em;  // ~10px
    Colors
    ========================================================================== */
 
-$gray                       : #7a8288;
-$dark-gray                  : mix(#000, $gray, 40%);
-$darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#fff, $gray, 50%);
-$lighter-gray               : mix(#fff, $gray, 90%);
+$gray                       : #839496; // solarized base0
+$dark-gray                  : #586e75; // solarized base01
+$darker-gray                : #073642; // solarized base02
+$light-gray                 : #93a1a1; // solarized base1
+$lighter-gray               : #eee8d5; // solarized base2
 
-$body-color                 : #fff;
-$background-color           : #fff;
-$code-background-color      : #fafafa;
+$body-color                 : #fdf6e3; // solarized base3
+$background-color           : #fdf6e3; // solarized base3
+$code-background-color      : #eee8d5; // solarized base2
 $code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
+$text-color                 : #657b83; // solarized base00
 $border-color               : $lighter-gray;
 
-$primary-color              : #7a8288;
-$success-color              : #62c462;
-$warning-color              : #f89406;
-$danger-color               : #ee5f5b;
-$info-color                 : #52adc8;
+$primary-color              : #586e75; // solarized base01
+$success-color              : #859900; // solarized green
+$warning-color              : #b58900; // solarized yellow
+$danger-color               : #dc322f; // solarized red
+$info-color                 : #268bd2; // solarized blue
 
 /* brands */
 $behance-color              : #1769FF;
