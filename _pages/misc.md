@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Misc"
+title: "Some Things I Enjoy"
 permalink: /misc/
 author_profile: true
 ---
