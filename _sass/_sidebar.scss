@@ -8,27 +8,12 @@
 
 .author__mobile-header {
   display: none;
-  padding: 1em;
+  padding: 0.75em 1em;
   border-bottom: 1px solid $border-color;
   margin-bottom: 1.5em;
 
-  @include breakpoint(max-width $medium) {
+  @media (max-width: 768px) {
     display: block;
-  }
-
-  .author__mobile-top {
-    display: flex;
-    align-items: center;
-    gap: 1em;
-    margin-bottom: 0.75em;
-  }
-
-  .author__mobile-avatar {
-    width: 64px;
-    height: 64px;
-    border-radius: 50%;
-    border: 1px solid #3d2f22;
-    flex-shrink: 0;
   }
 
   .author__mobile-links {
@@ -50,7 +35,7 @@
   width: 20%;
   min-width: 180px;
 
-  @include breakpoint(max-width $medium) {
+  @media (max-width: 768px) {
     display: none;
   }
   padding-right: 2em;

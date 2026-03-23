@@ -5,17 +5,6 @@
 {% endif %}
 
 <div class="author__mobile-header">
-  <div class="author__mobile-top">
-    {% if author.avatar contains "://" %}
-      <img src="{{ author.avatar }}" alt="{{ author.name }}" class="author__mobile-avatar">
-    {% else %}
-      <img src="{{ author.avatar | prepend: "/images/" | prepend: base_path }}" alt="{{ author.name }}" class="author__mobile-avatar">
-    {% endif %}
-    <div class="author__mobile-info">
-      <h3 class="author__name">{{ author.name }}</h3>
-      {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
-    </div>
-  </div>
   <ul class="author__mobile-links social-icons">
     {% if author.email %}
       <li><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ author.email }}</li>
