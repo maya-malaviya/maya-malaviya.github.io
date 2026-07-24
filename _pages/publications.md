@@ -12,5 +12,5 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  <p>{{ post.citation }}{% if post.paperurl %} <a href="{{ post.paperurl }}">{{ post.paperurl }}</a>{% endif %}</p>
 {% endfor %}
