@@ -22,7 +22,7 @@ Funded Awards
 * UC Berkeley Summer Undergraduate Research Fellowship (2020)
 * CalTeach STEM Beyond Summer Internship (2018)
 
-Work experience
+Work Experience
 ======
 * Princeton University: Research Specialist I
   * Managed two psychology research labs, [Computational Cognitive Science Lab](https://cocosci.princeton.edu) & [Concepts and Cognition Lab](https://cognition.princeton.edu).
@@ -32,6 +32,11 @@ Work experience
 * Lawrence Hall of Science at University of California, Berkeley
   * I was the lead educator that taught MakeCode, Python, and robotics to hundreds of middle and high school students in summer camps and after school programs for 3 years.
   * Additionally, taught AI4All camps, international camps, and a camp of my own design about data analysis addressing climate change.
+
+Teaching
+======
+* New York University: Course Assistant for [Computational Cognitive Science](https://teaching.gureckislab.org/compcogsci/pages/syllabus.html)
+* New York University: Course Assistant for [Lab in Cognition & Perception](https://maya-malaviya.github.io/nyu_lab_in_cognition/intro.html#)
 
 <!-- Publications
 ======
