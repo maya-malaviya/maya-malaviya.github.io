@@ -10,11 +10,12 @@ I enjoy thinking about a lot of stuff that isn't real! Here's some cool media th
 - [Gormenghast Trilogy (1946)](https://en.wikipedia.org/wiki/Gormenghast_(series))
 - [If on a winter's night a traveler (1979)](https://en.wikipedia.org/wiki/If_on_a_winter%27s_night_a_traveler)
 - [Lincoln in the Bardo (2017)](https://en.wikipedia.org/wiki/Lincoln_in_the_Bardo)
+- [The Tainted Cup (2024)](https://en.wikipedia.org/wiki/The_Tainted_Cup)
 
 ## Video Games that Inspire Me
 
 - [Baba Is You (2017)](https://en.wikipedia.org/wiki/Baba_Is_You)
-- [Slay the Spire (2019)](https://en.wikipedia.org/wiki/Slay_the_Spire)
+- [Slay the Spire I & II (2019, 2026)](https://en.wikipedia.org/wiki/Slay_the_Spire)
 
 ## Tabletop RPGs that Inspire Me
 
